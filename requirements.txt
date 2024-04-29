@@ -1,0 +1,6 @@
+art
+colorama
+cryptography
+prompt-toolkit
+rich
+jinja2
